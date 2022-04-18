@@ -1,0 +1,13 @@
+table {
+  border-collapse: collapse;
+}
+
+th {
+  color: blue;
+  background-color: lightgreen;
+  border: 3px solid #00AA00;
+}
+
+td {
+  border: 3px solid #00AA00;
+}
